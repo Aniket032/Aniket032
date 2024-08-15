@@ -8,7 +8,6 @@ Welcome to my GitHub! I'm a passionate Full Stack Engineer with a strong foundat
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [aniket.chawla03@gmail.com](mailto:aniket.chawla03@gmail.com)
-* 🧠  I'm learning Three.js
 
 ## 🛠️ Experience
 
