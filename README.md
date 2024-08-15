@@ -10,6 +10,15 @@ Welcome to my GitHub! I'm a passionate Full Stack Engineer with a strong foundat
 * ✉️  You can contact me at [aniket.chawla03@gmail.com](mailto:aniket.chawla03@gmail.com)
 * 🧠  I'm learning Three.js
 
+## 🛠️ Experience
+
+### Info Edge India (Jeevansathi.com) | Software Developer Intern
+*Sept 2023 - Dec 2023 | Noida, India*
+
+- Developed a user-friendly dashboard using **Next.js**, **TypeScript**, and **Tailwind CSS**, reducing backend/frontend dependencies for A/B experiments.
+- Streamlined A/B testing by decoupling conditions from the codebase, enabling dynamic adjustments without service releases.
+
+
 ### Skills
 
 
