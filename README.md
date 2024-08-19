@@ -7,6 +7,7 @@ Full Stack Developer
 Welcome to my GitHub! I'm a passionate Full Stack Engineer with a strong foundation in both frontend and backend development. I'm currently a final year student pursuing my B.Tech. in Computer Science and Engineering from Vellore Institute of Technology
 
 * 🌍  I'm based in India
+* 🖥️  See my portfolio at [MyPortfolio](http://aniketchawla.vercel.app)
 * ✉️  You can contact me at [aniket.chawla03@gmail.com](mailto:aniket.chawla03@gmail.com)
 
 ## 🛠️ Experience
